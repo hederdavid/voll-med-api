@@ -41,6 +41,5 @@ public class MedicoController {
     public void excluir(@PathVariable Long id) {
         var medico = repository.getReferenceById(id);
         medico.excluir();
-
     }
 }
