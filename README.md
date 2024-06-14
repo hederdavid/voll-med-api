@@ -7,8 +7,12 @@ Next Education.
 ## 🚀 Funcionalidades
 
 - ⚡ **CRUD Completo:** Gerenciamento completo de médicos e pacientes em um sistema fictício.
-- 🔐 **Segurança:** Autorização e Autenticação utilizando tokens JWT
-
+- 🔐 **Segurança:** Autorização e Autenticação utilizando tokens JWT.
+- 🌐 **Desenvolvimento de uma API REST**
+- ✅ **Validações:** Garantia de integridade e consistência dos dados.
+- 📄 **Paginação e Ordenação:** Suporte para grandes volumes de dados com paginação e ordenação eficiente.
+- 📋 **Boas Práticas REST:** Implementação seguindo as melhores práticas REST.
+- ⚠️ **Tratamento de Erros:** Manipulação e resposta adequada para erros.
 
 ## 🛠️ Tecnologias Utilizadas
 
