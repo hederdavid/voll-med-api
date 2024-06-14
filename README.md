@@ -7,6 +7,7 @@ Next Education.
 ## 🚀 Funcionalidades
 
 - ⚡ **CRUD Completo:** Gerenciamento completo de médicos e pacientes em um sistema fictício.
+- 🔐 **Segurança:** Autorização e Autenticação utilizando tokens JWT
 
 
 ## 🛠️ Tecnologias Utilizadas
@@ -17,5 +18,8 @@ Next Education.
 - **DevTools**
 - **Spring JPA**
 - **Spring Validation**
+- **Spring Security**
+- **JWT**
 - **MySQL Connector**
+
 
